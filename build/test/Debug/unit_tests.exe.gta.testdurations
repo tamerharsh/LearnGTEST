@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Executable>F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\test\Debug\unit_tests.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="CalculatorAppTest.add_function" Duration="1" />
+    <TestDuration Test="CalculatorAppTest.add" Duration="1" />
+  </TestDurations>
+</GtaTestDurations>

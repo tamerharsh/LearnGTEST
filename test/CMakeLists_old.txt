@@ -1,0 +1,44 @@
+#CMAKE of TEST FILE 
+include_directories(${CMAKE_PROJECT_DIR}/include)
+#set(GTEST_ROOT "C:/ifm3d/googletest" CACHE PATH "Path to googletest")
+#add_subdirectory("C:/ifm3d/googletest" gtest_bin EXCLUDE_FROM_ALL)
+
+#set(CMAKE_PREFIX_PATH "C:/ifm3d/googletest")
+set(GTEST_CMAKE_DIR "C:/ifm3d/googletest/googletest" CACHE STRING "GTest cmake project dir")
+include_directories(${GTEST_INCLUDE_DIRS})
+
+find_package(GTest REQUIRED)
+#include_directories(${GTEST_INCLUDE_DIR})
+add_executable(mylibtest test.cpp)
+#target_link_libraries(mylibtest gtest_bin)
+target_link_libraries(mylibtest ${GTEST_BOTH_LIBRARIES})
+
+
+
+
+
+
+
+
+
+------------
+# cmake of test directory 
+#set(CMAKE_PREFIX_PATH "../googletests")
+
+add_subdirectory(googletest)
+if(gtest)
+message(STATUS "gtest Foud")
+set(GTEST_INCLUDE_DIR "../googletest/googletest/include")
+endif()
+#set(GOOGLE_TEST_LIB gtest)
+#set(GOOGLE_TEST_INCLUDE "C:/ifm3d/googletests")
+include_directories("${CMAKE_PROJECT_DIR}/include")
+
+add_executable(mylibtest Test.cpp)
+target_link_libraries(mylibtest Test.cpp gtest)
+
+
+
+
+
+

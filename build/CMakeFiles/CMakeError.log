@@ -1,0 +1,950 @@
+Determining if the include file pthread.h exists failed with the following output:
+Change Dir: F:/Unit_Test_FrameWork_Tutorials/BasicCalculatorApp/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_1cd8c.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.9.21+g9802d43bc3 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 05/03/2019 4:54:01 PM.
+Project "F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_1cd8c.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_1cd8c.dir\Debug\".
+  Creating directory "F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_1cd8c.dir\Debug\cmTC_1cd8c.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_1cd8c.dir\Debug\cmTC_1cd8c.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x64\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_1cd8c.dir\Debug\\" /Fd"cmTC_1cd8c.dir\Debug\vc141.pdb" /Gd /TC /FC /errorReport:queue F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.16.27030.1 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_1cd8c.dir\Debug\\" /Fd"cmTC_1cd8c.dir\Debug\vc141.pdb" /Gd /TC /FC /errorReport:queue F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  CheckIncludeFile.c
+  
+f:\unit_test_framework_tutorials\basiccalculatorapp\build\cmakefiles\cmaketmp\checkincludefile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_1cd8c.vcxproj]
+Done Building Project "F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_1cd8c.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_1cd8c.vcxproj" (default target) (1) ->
+(ClCompile target) -> 
+  f:\unit_test_framework_tutorials\basiccalculatorapp\build\cmakefiles\cmaketmp\checkincludefile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_1cd8c.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.43
+
+
+Determining if the include file pthread.h exists failed with the following output:
+Change Dir: F:/Unit_Test_FrameWork_Tutorials/BasicCalculatorApp/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_80fc0.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.9.21+g9802d43bc3 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 05/03/2019 5:08:34 PM.
+Project "F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_80fc0.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_80fc0.dir\Debug\".
+  Creating directory "F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_80fc0.dir\Debug\cmTC_80fc0.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_80fc0.dir\Debug\cmTC_80fc0.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x64\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_80fc0.dir\Debug\\" /Fd"cmTC_80fc0.dir\Debug\vc141.pdb" /Gd /TC /FC /errorReport:queue F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.16.27030.1 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_80fc0.dir\Debug\\" /Fd"cmTC_80fc0.dir\Debug\vc141.pdb" /Gd /TC /FC /errorReport:queue F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  CheckIncludeFile.c
+  
+f:\unit_test_framework_tutorials\basiccalculatorapp\build\cmakefiles\cmaketmp\checkincludefile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_80fc0.vcxproj]
+Done Building Project "F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_80fc0.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_80fc0.vcxproj" (default target) (1) ->
+(ClCompile target) -> 
+  f:\unit_test_framework_tutorials\basiccalculatorapp\build\cmakefiles\cmaketmp\checkincludefile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_80fc0.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.29
+
+
+Determining if the include file pthread.h exists failed with the following output:
+Change Dir: F:/Unit_Test_FrameWork_Tutorials/BasicCalculatorApp/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_1baa8.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.9.21+g9802d43bc3 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 05/03/2019 5:38:27 PM.
+Project "F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_1baa8.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_1baa8.dir\Debug\".
+  Creating directory "F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_1baa8.dir\Debug\cmTC_1baa8.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_1baa8.dir\Debug\cmTC_1baa8.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x64\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_1baa8.dir\Debug\\" /Fd"cmTC_1baa8.dir\Debug\vc141.pdb" /Gd /TC /FC /errorReport:queue F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.16.27030.1 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_1baa8.dir\Debug\\" /Fd"cmTC_1baa8.dir\Debug\vc141.pdb" /Gd /TC /FC /errorReport:queue F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  CheckIncludeFile.c
+  
+f:\unit_test_framework_tutorials\basiccalculatorapp\build\cmakefiles\cmaketmp\checkincludefile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_1baa8.vcxproj]
+Done Building Project "F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_1baa8.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_1baa8.vcxproj" (default target) (1) ->
+(ClCompile target) -> 
+  f:\unit_test_framework_tutorials\basiccalculatorapp\build\cmakefiles\cmaketmp\checkincludefile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_1baa8.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.31
+
+
+Determining if the include file pthread.h exists failed with the following output:
+Change Dir: F:/Unit_Test_FrameWork_Tutorials/BasicCalculatorApp/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_e519d.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.9.21+g9802d43bc3 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 05/03/2019 5:50:20 PM.
+Project "F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_e519d.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_e519d.dir\Debug\".
+  Creating directory "F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_e519d.dir\Debug\cmTC_e519d.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_e519d.dir\Debug\cmTC_e519d.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x64\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_e519d.dir\Debug\\" /Fd"cmTC_e519d.dir\Debug\vc141.pdb" /Gd /TC /FC /errorReport:queue F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.16.27030.1 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_e519d.dir\Debug\\" /Fd"cmTC_e519d.dir\Debug\vc141.pdb" /Gd /TC /FC /errorReport:queue F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  CheckIncludeFile.c
+  
+f:\unit_test_framework_tutorials\basiccalculatorapp\build\cmakefiles\cmaketmp\checkincludefile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_e519d.vcxproj]
+Done Building Project "F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_e519d.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_e519d.vcxproj" (default target) (1) ->
+(ClCompile target) -> 
+  f:\unit_test_framework_tutorials\basiccalculatorapp\build\cmakefiles\cmaketmp\checkincludefile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_e519d.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.31
+
+
+Determining if the include file pthread.h exists failed with the following output:
+Change Dir: F:/Unit_Test_FrameWork_Tutorials/BasicCalculatorApp/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_fdc7c.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.9.21+g9802d43bc3 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 05/03/2019 5:53:15 PM.
+Project "F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_fdc7c.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_fdc7c.dir\Debug\".
+  Creating directory "F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_fdc7c.dir\Debug\cmTC_fdc7c.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_fdc7c.dir\Debug\cmTC_fdc7c.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_fdc7c.dir\Debug\\" /Fd"cmTC_fdc7c.dir\Debug\vc141.pdb" /Gd /TC /analyze- /FC /errorReport:queue F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.16.27030.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_fdc7c.dir\Debug\\" /Fd"cmTC_fdc7c.dir\Debug\vc141.pdb" /Gd /TC /analyze- /FC /errorReport:queue F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  CheckIncludeFile.c
+  
+f:\unit_test_framework_tutorials\basiccalculatorapp\build\cmakefiles\cmaketmp\checkincludefile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_fdc7c.vcxproj]
+Done Building Project "F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_fdc7c.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_fdc7c.vcxproj" (default target) (1) ->
+(ClCompile target) -> 
+  f:\unit_test_framework_tutorials\basiccalculatorapp\build\cmakefiles\cmaketmp\checkincludefile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_fdc7c.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.29
+
+
+Determining if the include file pthread.h exists failed with the following output:
+Change Dir: F:/Unit_Test_FrameWork_Tutorials/BasicCalculatorApp/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_599ba.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.9.21+g9802d43bc3 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 05/03/2019 6:58:28 PM.
+Project "F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_599ba.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_599ba.dir\Debug\".
+  Creating directory "F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_599ba.dir\Debug\cmTC_599ba.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_599ba.dir\Debug\cmTC_599ba.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x64\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_599ba.dir\Debug\\" /Fd"cmTC_599ba.dir\Debug\vc141.pdb" /Gd /TC /FC /errorReport:queue F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.16.27030.1 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_599ba.dir\Debug\\" /Fd"cmTC_599ba.dir\Debug\vc141.pdb" /Gd /TC /FC /errorReport:queue F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  CheckIncludeFile.c
+  
+f:\unit_test_framework_tutorials\basiccalculatorapp\build\cmakefiles\cmaketmp\checkincludefile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_599ba.vcxproj]
+Done Building Project "F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_599ba.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_599ba.vcxproj" (default target) (1) ->
+(ClCompile target) -> 
+  f:\unit_test_framework_tutorials\basiccalculatorapp\build\cmakefiles\cmaketmp\checkincludefile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_599ba.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.33
+
+
+Determining if the include file pthread.h exists failed with the following output:
+Change Dir: F:/Unit_Test_FrameWork_Tutorials/BasicCalculatorApp/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_26d89.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.9.21+g9802d43bc3 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 05/06/2019 12:22:17 PM.
+Project "F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_26d89.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_26d89.dir\Debug\".
+  Creating directory "F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_26d89.dir\Debug\cmTC_26d89.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_26d89.dir\Debug\cmTC_26d89.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x64\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_26d89.dir\Debug\\" /Fd"cmTC_26d89.dir\Debug\vc141.pdb" /Gd /TC /FC /errorReport:queue F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.16.27030.1 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_26d89.dir\Debug\\" /Fd"cmTC_26d89.dir\Debug\vc141.pdb" /Gd /TC /FC /errorReport:queue F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  CheckIncludeFile.c
+  
+f:\unit_test_framework_tutorials\basiccalculatorapp\build\cmakefiles\cmaketmp\checkincludefile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_26d89.vcxproj]
+Done Building Project "F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_26d89.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_26d89.vcxproj" (default target) (1) ->
+(ClCompile target) -> 
+  f:\unit_test_framework_tutorials\basiccalculatorapp\build\cmakefiles\cmaketmp\checkincludefile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_26d89.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:01.28
+
+
+Determining if the include file pthread.h exists failed with the following output:
+Change Dir: F:/Unit_Test_FrameWork_Tutorials/BasicCalculatorApp/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_e7f24.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.9.21+g9802d43bc3 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 05/06/2019 1:05:00 PM.
+Project "F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_e7f24.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_e7f24.dir\Debug\".
+  Creating directory "F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_e7f24.dir\Debug\cmTC_e7f24.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_e7f24.dir\Debug\cmTC_e7f24.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x64\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_e7f24.dir\Debug\\" /Fd"cmTC_e7f24.dir\Debug\vc141.pdb" /Gd /TC /FC /errorReport:queue F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.16.27030.1 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_e7f24.dir\Debug\\" /Fd"cmTC_e7f24.dir\Debug\vc141.pdb" /Gd /TC /FC /errorReport:queue F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  CheckIncludeFile.c
+  
+f:\unit_test_framework_tutorials\basiccalculatorapp\build\cmakefiles\cmaketmp\checkincludefile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_e7f24.vcxproj]
+Done Building Project "F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_e7f24.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_e7f24.vcxproj" (default target) (1) ->
+(ClCompile target) -> 
+  f:\unit_test_framework_tutorials\basiccalculatorapp\build\cmakefiles\cmaketmp\checkincludefile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_e7f24.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.45
+
+
+Determining if the include file pthread.h exists failed with the following output:
+Change Dir: F:/Unit_Test_FrameWork_Tutorials/BasicCalculatorApp/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_d1366.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.9.21+g9802d43bc3 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 05/06/2019 1:05:33 PM.
+Project "F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_d1366.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_d1366.dir\Debug\".
+  Creating directory "F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_d1366.dir\Debug\cmTC_d1366.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_d1366.dir\Debug\cmTC_d1366.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x64\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_d1366.dir\Debug\\" /Fd"cmTC_d1366.dir\Debug\vc141.pdb" /Gd /TC /FC /errorReport:queue F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.16.27030.1 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_d1366.dir\Debug\\" /Fd"cmTC_d1366.dir\Debug\vc141.pdb" /Gd /TC /FC /errorReport:queue F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  CheckIncludeFile.c
+  
+f:\unit_test_framework_tutorials\basiccalculatorapp\build\cmakefiles\cmaketmp\checkincludefile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_d1366.vcxproj]
+Done Building Project "F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_d1366.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_d1366.vcxproj" (default target) (1) ->
+(ClCompile target) -> 
+  f:\unit_test_framework_tutorials\basiccalculatorapp\build\cmakefiles\cmaketmp\checkincludefile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_d1366.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.29
+
+
+Determining if the include file pthread.h exists failed with the following output:
+Change Dir: F:/Unit_Test_FrameWork_Tutorials/BasicCalculatorApp/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_4c65a.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.9.21+g9802d43bc3 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 05/06/2019 1:11:46 PM.
+Project "F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_4c65a.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_4c65a.dir\Debug\".
+  Creating directory "F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_4c65a.dir\Debug\cmTC_4c65a.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_4c65a.dir\Debug\cmTC_4c65a.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x64\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_4c65a.dir\Debug\\" /Fd"cmTC_4c65a.dir\Debug\vc141.pdb" /Gd /TC /FC /errorReport:queue F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.16.27030.1 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_4c65a.dir\Debug\\" /Fd"cmTC_4c65a.dir\Debug\vc141.pdb" /Gd /TC /FC /errorReport:queue F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  CheckIncludeFile.c
+  
+f:\unit_test_framework_tutorials\basiccalculatorapp\build\cmakefiles\cmaketmp\checkincludefile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_4c65a.vcxproj]
+Done Building Project "F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_4c65a.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_4c65a.vcxproj" (default target) (1) ->
+(ClCompile target) -> 
+  f:\unit_test_framework_tutorials\basiccalculatorapp\build\cmakefiles\cmaketmp\checkincludefile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_4c65a.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.29
+
+
+Determining if the include file pthread.h exists failed with the following output:
+Change Dir: F:/Unit_Test_FrameWork_Tutorials/BasicCalculatorApp/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_e8820.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.9.21+g9802d43bc3 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 05/06/2019 5:12:38 PM.
+Project "F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_e8820.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_e8820.dir\Debug\".
+  Creating directory "F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_e8820.dir\Debug\cmTC_e8820.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_e8820.dir\Debug\cmTC_e8820.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x64\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_e8820.dir\Debug\\" /Fd"cmTC_e8820.dir\Debug\vc141.pdb" /Gd /TC /FC /errorReport:queue F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.16.27030.1 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_e8820.dir\Debug\\" /Fd"cmTC_e8820.dir\Debug\vc141.pdb" /Gd /TC /FC /errorReport:queue F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  CheckIncludeFile.c
+  
+f:\unit_test_framework_tutorials\basiccalculatorapp\build\cmakefiles\cmaketmp\checkincludefile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_e8820.vcxproj]
+Done Building Project "F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_e8820.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_e8820.vcxproj" (default target) (1) ->
+(ClCompile target) -> 
+  f:\unit_test_framework_tutorials\basiccalculatorapp\build\cmakefiles\cmaketmp\checkincludefile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_e8820.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.44
+
+
+Determining if the include file pthread.h exists failed with the following output:
+Change Dir: F:/Unit_Test_FrameWork_Tutorials/BasicCalculatorApp/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_0fd59.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.9.21+g9802d43bc3 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 05/06/2019 5:14:41 PM.
+Project "F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_0fd59.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_0fd59.dir\Debug\".
+  Creating directory "F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_0fd59.dir\Debug\cmTC_0fd59.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_0fd59.dir\Debug\cmTC_0fd59.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x64\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_0fd59.dir\Debug\\" /Fd"cmTC_0fd59.dir\Debug\vc141.pdb" /Gd /TC /FC /errorReport:queue F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.16.27030.1 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_0fd59.dir\Debug\\" /Fd"cmTC_0fd59.dir\Debug\vc141.pdb" /Gd /TC /FC /errorReport:queue F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  CheckIncludeFile.c
+  
+f:\unit_test_framework_tutorials\basiccalculatorapp\build\cmakefiles\cmaketmp\checkincludefile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_0fd59.vcxproj]
+Done Building Project "F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_0fd59.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_0fd59.vcxproj" (default target) (1) ->
+(ClCompile target) -> 
+  f:\unit_test_framework_tutorials\basiccalculatorapp\build\cmakefiles\cmaketmp\checkincludefile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_0fd59.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.31
+
+
+Determining if the include file pthread.h exists failed with the following output:
+Change Dir: F:/Unit_Test_FrameWork_Tutorials/BasicCalculatorApp/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_830a6.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.9.21+g9802d43bc3 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 05/06/2019 5:32:18 PM.
+Project "F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_830a6.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_830a6.dir\Debug\".
+  Creating directory "F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_830a6.dir\Debug\cmTC_830a6.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_830a6.dir\Debug\cmTC_830a6.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x64\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_830a6.dir\Debug\\" /Fd"cmTC_830a6.dir\Debug\vc141.pdb" /Gd /TC /FC /errorReport:queue F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.16.27030.1 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_830a6.dir\Debug\\" /Fd"cmTC_830a6.dir\Debug\vc141.pdb" /Gd /TC /FC /errorReport:queue F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  CheckIncludeFile.c
+  
+f:\unit_test_framework_tutorials\basiccalculatorapp\build\cmakefiles\cmaketmp\checkincludefile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_830a6.vcxproj]
+Done Building Project "F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_830a6.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_830a6.vcxproj" (default target) (1) ->
+(ClCompile target) -> 
+  f:\unit_test_framework_tutorials\basiccalculatorapp\build\cmakefiles\cmaketmp\checkincludefile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_830a6.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.45
+
+
+Determining if the include file pthread.h exists failed with the following output:
+Change Dir: F:/Unit_Test_FrameWork_Tutorials/BasicCalculatorApp/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_632b5.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.9.21+g9802d43bc3 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 05/06/2019 5:34:27 PM.
+Project "F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_632b5.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_632b5.dir\Debug\".
+  Creating directory "F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_632b5.dir\Debug\cmTC_632b5.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_632b5.dir\Debug\cmTC_632b5.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x64\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_632b5.dir\Debug\\" /Fd"cmTC_632b5.dir\Debug\vc141.pdb" /Gd /TC /FC /errorReport:queue F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.16.27030.1 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_632b5.dir\Debug\\" /Fd"cmTC_632b5.dir\Debug\vc141.pdb" /Gd /TC /FC /errorReport:queue F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  CheckIncludeFile.c
+  
+f:\unit_test_framework_tutorials\basiccalculatorapp\build\cmakefiles\cmaketmp\checkincludefile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_632b5.vcxproj]
+Done Building Project "F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_632b5.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_632b5.vcxproj" (default target) (1) ->
+(ClCompile target) -> 
+  f:\unit_test_framework_tutorials\basiccalculatorapp\build\cmakefiles\cmaketmp\checkincludefile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_632b5.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.29
+
+
+Determining if the include file pthread.h exists failed with the following output:
+Change Dir: F:/Unit_Test_FrameWork_Tutorials/BasicCalculatorApp/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_1d810.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.9.21+g9802d43bc3 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 05/06/2019 5:37:30 PM.
+Project "F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_1d810.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_1d810.dir\Debug\".
+  Creating directory "F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_1d810.dir\Debug\cmTC_1d810.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_1d810.dir\Debug\cmTC_1d810.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x64\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_1d810.dir\Debug\\" /Fd"cmTC_1d810.dir\Debug\vc141.pdb" /Gd /TC /FC /errorReport:queue F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.16.27030.1 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_1d810.dir\Debug\\" /Fd"cmTC_1d810.dir\Debug\vc141.pdb" /Gd /TC /FC /errorReport:queue F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  CheckIncludeFile.c
+  
+f:\unit_test_framework_tutorials\basiccalculatorapp\build\cmakefiles\cmaketmp\checkincludefile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_1d810.vcxproj]
+Done Building Project "F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_1d810.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_1d810.vcxproj" (default target) (1) ->
+(ClCompile target) -> 
+  f:\unit_test_framework_tutorials\basiccalculatorapp\build\cmakefiles\cmaketmp\checkincludefile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_1d810.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.29
+
+
+Determining if the include file pthread.h exists failed with the following output:
+Change Dir: F:/Unit_Test_FrameWork_Tutorials/BasicCalculatorApp/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_9e162.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.9.21+g9802d43bc3 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 05/06/2019 6:36:14 PM.
+Project "F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_9e162.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_9e162.dir\Debug\".
+  Creating directory "F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_9e162.dir\Debug\cmTC_9e162.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_9e162.dir\Debug\cmTC_9e162.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x64\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_9e162.dir\Debug\\" /Fd"cmTC_9e162.dir\Debug\vc141.pdb" /Gd /TC /FC /errorReport:queue F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.16.27030.1 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_9e162.dir\Debug\\" /Fd"cmTC_9e162.dir\Debug\vc141.pdb" /Gd /TC /FC /errorReport:queue F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  CheckIncludeFile.c
+  
+f:\unit_test_framework_tutorials\basiccalculatorapp\build\cmakefiles\cmaketmp\checkincludefile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_9e162.vcxproj]
+Done Building Project "F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_9e162.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_9e162.vcxproj" (default target) (1) ->
+(ClCompile target) -> 
+  f:\unit_test_framework_tutorials\basiccalculatorapp\build\cmakefiles\cmaketmp\checkincludefile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_9e162.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.28
+
+
+Determining if the include file pthread.h exists failed with the following output:
+Change Dir: F:/Unit_Test_FrameWork_Tutorials/BasicCalculatorApp/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_224c1.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.9.21+g9802d43bc3 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 05/06/2019 6:38:14 PM.
+Project "F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_224c1.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_224c1.dir\Debug\".
+  Creating directory "F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_224c1.dir\Debug\cmTC_224c1.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_224c1.dir\Debug\cmTC_224c1.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x64\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_224c1.dir\Debug\\" /Fd"cmTC_224c1.dir\Debug\vc141.pdb" /Gd /TC /FC /errorReport:queue F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.16.27030.1 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_224c1.dir\Debug\\" /Fd"cmTC_224c1.dir\Debug\vc141.pdb" /Gd /TC /FC /errorReport:queue F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  CheckIncludeFile.c
+  
+f:\unit_test_framework_tutorials\basiccalculatorapp\build\cmakefiles\cmaketmp\checkincludefile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_224c1.vcxproj]
+Done Building Project "F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_224c1.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_224c1.vcxproj" (default target) (1) ->
+(ClCompile target) -> 
+  f:\unit_test_framework_tutorials\basiccalculatorapp\build\cmakefiles\cmaketmp\checkincludefile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_224c1.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.29
+
+
+Determining if the include file pthread.h exists failed with the following output:
+Change Dir: F:/Unit_Test_FrameWork_Tutorials/BasicCalculatorApp/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_9ec81.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.9.21+g9802d43bc3 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 05/06/2019 6:46:51 PM.
+Project "F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_9ec81.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_9ec81.dir\Debug\".
+  Creating directory "F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_9ec81.dir\Debug\cmTC_9ec81.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_9ec81.dir\Debug\cmTC_9ec81.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x64\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_9ec81.dir\Debug\\" /Fd"cmTC_9ec81.dir\Debug\vc141.pdb" /Gd /TC /FC /errorReport:queue F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.16.27030.1 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_9ec81.dir\Debug\\" /Fd"cmTC_9ec81.dir\Debug\vc141.pdb" /Gd /TC /FC /errorReport:queue F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  CheckIncludeFile.c
+  
+f:\unit_test_framework_tutorials\basiccalculatorapp\build\cmakefiles\cmaketmp\checkincludefile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_9ec81.vcxproj]
+Done Building Project "F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_9ec81.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_9ec81.vcxproj" (default target) (1) ->
+(ClCompile target) -> 
+  f:\unit_test_framework_tutorials\basiccalculatorapp\build\cmakefiles\cmaketmp\checkincludefile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_9ec81.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.28
+
+
+Determining if the include file pthread.h exists failed with the following output:
+Change Dir: F:/Unit_Test_FrameWork_Tutorials/BasicCalculatorApp/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_e0aff.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.9.21+g9802d43bc3 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 05/07/2019 12:08:37 PM.
+Project "F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_e0aff.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_e0aff.dir\Debug\".
+  Creating directory "F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_e0aff.dir\Debug\cmTC_e0aff.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_e0aff.dir\Debug\cmTC_e0aff.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x64\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_e0aff.dir\Debug\\" /Fd"cmTC_e0aff.dir\Debug\vc141.pdb" /Gd /TC /FC /errorReport:queue F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.16.27030.1 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_e0aff.dir\Debug\\" /Fd"cmTC_e0aff.dir\Debug\vc141.pdb" /Gd /TC /FC /errorReport:queue F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  CheckIncludeFile.c
+  
+f:\unit_test_framework_tutorials\basiccalculatorapp\build\cmakefiles\cmaketmp\checkincludefile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_e0aff.vcxproj]
+Done Building Project "F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_e0aff.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_e0aff.vcxproj" (default target) (1) ->
+(ClCompile target) -> 
+  f:\unit_test_framework_tutorials\basiccalculatorapp\build\cmakefiles\cmaketmp\checkincludefile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_e0aff.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.47
+
+
+Determining if the include file pthread.h exists failed with the following output:
+Change Dir: F:/Unit_Test_FrameWork_Tutorials/BasicCalculatorApp/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_8ef5c.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.9.21+g9802d43bc3 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 05/07/2019 1:17:30 PM.
+Project "F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_8ef5c.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_8ef5c.dir\Debug\".
+  Creating directory "F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_8ef5c.dir\Debug\cmTC_8ef5c.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_8ef5c.dir\Debug\cmTC_8ef5c.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x64\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_8ef5c.dir\Debug\\" /Fd"cmTC_8ef5c.dir\Debug\vc141.pdb" /Gd /TC /FC /errorReport:queue F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.16.27030.1 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_8ef5c.dir\Debug\\" /Fd"cmTC_8ef5c.dir\Debug\vc141.pdb" /Gd /TC /FC /errorReport:queue F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  CheckIncludeFile.c
+  
+f:\unit_test_framework_tutorials\basiccalculatorapp\build\cmakefiles\cmaketmp\checkincludefile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_8ef5c.vcxproj]
+Done Building Project "F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_8ef5c.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_8ef5c.vcxproj" (default target) (1) ->
+(ClCompile target) -> 
+  f:\unit_test_framework_tutorials\basiccalculatorapp\build\cmakefiles\cmaketmp\checkincludefile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_8ef5c.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.35
+
+
+Determining if the include file pthread.h exists failed with the following output:
+Change Dir: F:/Unit_Test_FrameWork_Tutorials/BasicCalculatorApp/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_8de7c.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.9.21+g9802d43bc3 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 05/07/2019 2:54:06 PM.
+Project "F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_8de7c.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_8de7c.dir\Debug\".
+  Creating directory "F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_8de7c.dir\Debug\cmTC_8de7c.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_8de7c.dir\Debug\cmTC_8de7c.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_8de7c.dir\Debug\\" /Fd"cmTC_8de7c.dir\Debug\vc141.pdb" /Gd /TC /analyze- /FC /errorReport:queue F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.16.27030.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_8de7c.dir\Debug\\" /Fd"cmTC_8de7c.dir\Debug\vc141.pdb" /Gd /TC /analyze- /FC /errorReport:queue F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  CheckIncludeFile.c
+  
+f:\unit_test_framework_tutorials\basiccalculatorapp\build\cmakefiles\cmaketmp\checkincludefile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_8de7c.vcxproj]
+Done Building Project "F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_8de7c.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_8de7c.vcxproj" (default target) (1) ->
+(ClCompile target) -> 
+  f:\unit_test_framework_tutorials\basiccalculatorapp\build\cmakefiles\cmaketmp\checkincludefile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_8de7c.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.35
+
+
+Determining if the include file pthread.h exists failed with the following output:
+Change Dir: F:/Unit_Test_FrameWork_Tutorials/BasicCalculatorApp/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_7696c.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.9.21+g9802d43bc3 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 05/07/2019 3:11:44 PM.
+Project "F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_7696c.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_7696c.dir\Debug\".
+  Creating directory "F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_7696c.dir\Debug\cmTC_7696c.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_7696c.dir\Debug\cmTC_7696c.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x64\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_7696c.dir\Debug\\" /Fd"cmTC_7696c.dir\Debug\vc141.pdb" /Gd /TC /FC /errorReport:queue F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.16.27030.1 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_7696c.dir\Debug\\" /Fd"cmTC_7696c.dir\Debug\vc141.pdb" /Gd /TC /FC /errorReport:queue F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  CheckIncludeFile.c
+  
+f:\unit_test_framework_tutorials\basiccalculatorapp\build\cmakefiles\cmaketmp\checkincludefile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_7696c.vcxproj]
+Done Building Project "F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_7696c.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_7696c.vcxproj" (default target) (1) ->
+(ClCompile target) -> 
+  f:\unit_test_framework_tutorials\basiccalculatorapp\build\cmakefiles\cmaketmp\checkincludefile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_7696c.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.34
+
+
+Determining if the include file pthread.h exists failed with the following output:
+Change Dir: F:/Unit_Test_FrameWork_Tutorials/BasicCalculatorApp/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_f9548.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.9.21+g9802d43bc3 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 05/07/2019 4:47:53 PM.
+Project "F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_f9548.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_f9548.dir\Debug\".
+  Creating directory "F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_f9548.dir\Debug\cmTC_f9548.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_f9548.dir\Debug\cmTC_f9548.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x64\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_f9548.dir\Debug\\" /Fd"cmTC_f9548.dir\Debug\vc141.pdb" /Gd /TC /FC /errorReport:queue F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.16.27030.1 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_f9548.dir\Debug\\" /Fd"cmTC_f9548.dir\Debug\vc141.pdb" /Gd /TC /FC /errorReport:queue F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  CheckIncludeFile.c
+  
+f:\unit_test_framework_tutorials\basiccalculatorapp\build\cmakefiles\cmaketmp\checkincludefile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_f9548.vcxproj]
+Done Building Project "F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_f9548.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_f9548.vcxproj" (default target) (1) ->
+(ClCompile target) -> 
+  f:\unit_test_framework_tutorials\basiccalculatorapp\build\cmakefiles\cmaketmp\checkincludefile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_f9548.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.36
+
+
+Determining if the include file pthread.h exists failed with the following output:
+Change Dir: F:/Unit_Test_FrameWork_Tutorials/BasicCalculatorApp/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_cffdd.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.9.21+g9802d43bc3 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 05/07/2019 6:04:30 PM.
+Project "F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_cffdd.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_cffdd.dir\Debug\".
+  Creating directory "F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_cffdd.dir\Debug\cmTC_cffdd.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_cffdd.dir\Debug\cmTC_cffdd.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x64\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_cffdd.dir\Debug\\" /Fd"cmTC_cffdd.dir\Debug\vc141.pdb" /Gd /TC /FC /errorReport:queue F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.16.27030.1 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_cffdd.dir\Debug\\" /Fd"cmTC_cffdd.dir\Debug\vc141.pdb" /Gd /TC /FC /errorReport:queue F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  CheckIncludeFile.c
+  
+f:\unit_test_framework_tutorials\basiccalculatorapp\build\cmakefiles\cmaketmp\checkincludefile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_cffdd.vcxproj]
+Done Building Project "F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_cffdd.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_cffdd.vcxproj" (default target) (1) ->
+(ClCompile target) -> 
+  f:\unit_test_framework_tutorials\basiccalculatorapp\build\cmakefiles\cmaketmp\checkincludefile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_cffdd.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.34
+
+
+Determining if the include file pthread.h exists failed with the following output:
+Change Dir: F:/Unit_Test_FrameWork_Tutorials/BasicCalculatorApp/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_c37b4.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.9.21+g9802d43bc3 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 05/07/2019 7:10:42 PM.
+Project "F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_c37b4.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_c37b4.dir\Debug\".
+  Creating directory "F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_c37b4.dir\Debug\cmTC_c37b4.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_c37b4.dir\Debug\cmTC_c37b4.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x64\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_c37b4.dir\Debug\\" /Fd"cmTC_c37b4.dir\Debug\vc141.pdb" /Gd /TC /FC /errorReport:queue F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.16.27030.1 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_c37b4.dir\Debug\\" /Fd"cmTC_c37b4.dir\Debug\vc141.pdb" /Gd /TC /FC /errorReport:queue F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  CheckIncludeFile.c
+  
+f:\unit_test_framework_tutorials\basiccalculatorapp\build\cmakefiles\cmaketmp\checkincludefile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_c37b4.vcxproj]
+Done Building Project "F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_c37b4.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_c37b4.vcxproj" (default target) (1) ->
+(ClCompile target) -> 
+  f:\unit_test_framework_tutorials\basiccalculatorapp\build\cmakefiles\cmaketmp\checkincludefile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\build\CMakeFiles\CMakeTmp\cmTC_c37b4.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.36
+
+
